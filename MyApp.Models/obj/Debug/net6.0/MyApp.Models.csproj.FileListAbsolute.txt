@@ -1,0 +1,12 @@
+G:\New folder\MyProject\Portfollio\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+G:\New folder\MyProject\Portfollio\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+G:\New folder\MyProject\Portfollio\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+G:\New folder\MyProject\Portfollio\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+G:\New folder\MyProject\Portfollio\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\New folder\MyProject\Portfollio\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+G:\New folder\MyProject\Portfollio\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+G:\New folder\MyProject\Portfollio\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+G:\New folder\MyProject\Portfollio\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+G:\New folder\MyProject\Portfollio\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+G:\New folder\MyProject\Portfollio\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+G:\New folder\MyProject\Portfollio\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
